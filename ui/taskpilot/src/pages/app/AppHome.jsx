@@ -1,7 +1,7 @@
 import React from "react";
 
 function AppHome() {
-  return <div>App Home page</div>;
+  return <div className="w-screen h-screen bg-gray-100"></div>;
 }
 
 export default AppHome;
